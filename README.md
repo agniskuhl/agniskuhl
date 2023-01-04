@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋,eu sou Ágnis</h1>
 <h3 align="center">Apaixonada por análise e visualização de dados</h3>
 
-- 🌱 Atualmente estou me aprofundando **POWER BI E SQL**
+- 🌱 Atualmente estou me aprofundando **Power BI, SQL e Python**
 
-- 💬 Me pergunte sobre **POWER BI, EXCEL, SQL, TABLEAU**
+- 💬 Me pergunte sobre **Power BI, EXCEL, SQL, Python**
 
 - 📫 Você me acha através do e-mail **agniskuhl@gmail.com**
 
